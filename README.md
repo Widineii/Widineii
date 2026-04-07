@@ -14,22 +14,22 @@
   <tr>
     <td width="60%">
       <p align="justify">
-        Me chamo <strong>Widinei Martins</strong>, tenho 20 anos e sou natural de <strong>Abaeté-MG</strong>. Minha jornada na tecnologia começou na <em>Escola Estadual Doutor Edgardo da Cunha Pereira</em> e hoje se consolida na graduação de <strong>Ciência da Computação pela Anhanguera (5º semestre)</strong>.
+        Me chamo <strong>Widinei Martins</strong>, tenho 20 anos e sou natural de <strong>Abaeté-MG</strong>. Concluí o ensino médio na <em>Escola Estadual Doutor Edgardo da Cunha Pereira</em> e atualmente sigo minha trajetória acadêmica no 5º semestre de <strong>Ciência da Computação na Anhanguera</strong>.
       </p>
       <p align="justify">
-        Sou especializado no ecossistema <strong>Java Back-End</strong>, com foco em arquiteturas escaláveis utilizando <strong>Spring Boot, Spring Security e JPA/Hibernate</strong>. Além da universidade, invisto pesado na plataforma <strong>Alura</strong>, aplicando cada novo conhecimento em projetos reais e práticos.
+        Tenho foco total em <strong>Desenvolvimento Back-End com Java</strong>, criando aplicações robustas com <strong>Spring Boot, Spring Security e JPA/Hibernate</strong>. Sou um entusiasta da plataforma <strong>Alura</strong>, onde busco constante evolução técnica para aplicar em projetos de alto impacto.
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="https://img.shields.io/badge/Status-Disponível%20para%20Oportunidades-green?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/Foco-Back--End-blue?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Status-Buscando%20Oportunidades-green?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Foco-Back--End%20Java-blue?style=for-the-badge" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 📱 Entre em Contato
+## 📱 Entre em Contato (Fale Comigo!)
 
 <p align="center">
   <a href="https://w.app/widineii" target="_blank">
@@ -51,57 +51,57 @@
 
 ### ☕ Domínio Back-End
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,maven,php,docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,maven,php,docker" alt="Tecnologias Back-End" />
 </p>
 
-### 🌐 Domínio Web (Com base na sua atividade)
+### 🌐 Domínio Web & Ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,scss,git,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,scss,git,postman" alt="Tecnologias Front-End" />
 </p>
 
 ---
 
-## 🛠️ Projetos em Foco
+## 🛠️ Projetos em Destaque
 
 > [!IMPORTANT]
 > **🔐 API de Autenticação com JWT**
-> * Segurança avançada com **Spring Security** e tokens **JWT**.
+> * Implementação de segurança com **Spring Security** e **JWT**.
 > * Criptografia de senhas e controle de acesso por perfis (Roles).
 > * [Ver Repositório →](https://github.com/Widineii)
 
 > [!TIP]
 > **📦 API de Gerenciamento de Produtos**
-> * CRUD completo seguindo os padrões **RESTful**.
-> * Integração com **MySQL** via **Spring Data JPA**.
+> * CRUD completo com **Spring Boot** e **MySQL**.
+> * Uso de **JPA/Hibernate** e boas práticas de arquitetura REST.
 > * [Ver Repositório →](https://github.com/Widineii)
 
 > [!NOTE]
 > **👤 Sistema de Usuários**
-> * Arquitetura limpa em camadas (Controller, Service, Repository).
-> * Tratamento global de exceções e padronização de retornos.
+> * Organização em camadas (Controller, Service, Repository).
+> * Tratamento de exceções e padronização de respostas da API.
 > * [Ver Repositório →](https://github.com/Widineii)
 
 ---
 
-## 📊 Estatísticas de Desenvolvedor
+## 📊 Estatísticas e Atividade
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Widineii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Widineii&theme=tokyonight&layout=compact&langs_count=8" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Widineii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="GitHub Stats" />
+  &nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Widineii&theme=tokyonight&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=Widineii&theme=tokyonight&locale=pt-br" alt="GitHub Streak" />
+  <img width="85%" src="https://streak-stats.demolab.com?user=Widineii&theme=tokyonight&locale=pt-br" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🎓 Formação e Diferenciais
 
-* 🎓 **Ciência da Computação (5º Semestre)** na Anhanguera.
-* 📚 **Especialização constante via Alura** (Ecossistema Java/Spring).
-* ⚡ **Diferenciais:** Foco em escalabilidade, organização de código e paixão por resolver problemas complexos no Back-End.
+* 🎓 **Ciência da Computação** — Anhanguera (5º Semestre em andamento).
+* 📚 **Formação Contínua Alura** — Java, APIs REST e Spring Framework.
+* ⚡ **Diferencial:** Experiência prática na construção de sistemas seguros e escaláveis.
 
 ---
-<p align="center">🚀 <i>"Sempre evoluindo na tecnologia e transformando café em código seguro."</i></p>
+<p align="center">🚀 <i>"Sempre evoluindo na tecnologia e transformando café em código eficiente."</i></p>
