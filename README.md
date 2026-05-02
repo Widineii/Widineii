@@ -1,89 +1,114 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=280&section=header&text=Widinei%20Martins&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=000&desc=Desenvolvedor%20Back-End%20Java%20|%205º%20Semestre%20Ciência%20da%20Computação&descAlignY=55&descSize=22" alt="Banner Widinei" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=260&section=header&text=Widinei%20Martins&fontSize=68&fontAlignY=35&animation=fadeIn&fontColor=000&desc=Desenvolvedor%20Back-End%20Java%20|%20Spring%20Boot%20|%20APIs%20REST%20|%20Projetos%20Reais&descAlignY=55&descSize=21" alt="Banner Widinei Martins" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=1000&height=60&lines=Focado+em+APIs+REST+com+Spring+Boot;Especialista+em+Java+e+Segurança+de+Dados;Estudante+na+Anhanguera+e+Alura;Transformando+código+em+soluções+reais." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=26&center=true&vCenter=true&width=1000&height=60&lines=Construindo+APIs+REST+com+Java+e+Spring+Boot;Criando+sistemas+com+login,+CRUD,+seguranca+e+banco+de+dados;Buscando+oportunidades+como+estagio,+junior+ou+freelancer;Transformando+estudo+em+projetos+praticos." alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre mim
 
-<table align="center">
-  <tr>
-    <td width="60%">
-      <p align="justify">
-        Me chamo <strong>Widinei Martins</strong>, tenho 20 anos e sou natural de <strong>Abaeté-MG</strong>. Concluí o ensino médio na <em>Escola Estadual Doutor Edgardo da Cunha Pereira</em> e atualmente sigo minha trajetória acadêmica no 5º semestre de <strong>Ciência da Computação na Anhanguera</strong>.
-      </p>
-      <p align="justify">
-        Tenho foco total em <strong>Desenvolvimento Back-End com Java</strong>, criando aplicações robustas com <strong>Spring Boot, Spring Security e JPA/Hibernate</strong>. Sou um entusiasta da plataforma <strong>Alura</strong>, onde busco constante evolução técnica para aplicar em projetos de alto impacto.
-      </p>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://img.shields.io/badge/Status-Buscando%20Oportunidades-green?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/Foco-Back--End%20Java-blue?style=for-the-badge" />
-    </td>
-  </tr>
-</table>
+Sou **Widinei Martins**, estudante de **Ciencia da Computacao** e desenvolvedor em formacao com foco em **Back-End Java**.
+
+Tenho construido projetos praticos com **Java, Spring Boot, Spring Security, JPA/Hibernate, MySQL, PostgreSQL, SQLite, Docker, HTML, CSS e JavaScript**, sempre buscando aproximar meus estudos de problemas reais de negocio.
+
+Atualmente estou buscando oportunidades como:
+
+- **Estagio em desenvolvimento**
+- **Desenvolvedor Java Junior**
+- **Freelancer para sistemas web, APIs, landing pages e melhorias em projetos existentes**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Buscando%20Oportunidades-16a34a?style=for-the-badge" alt="Buscando oportunidades" />
+  <img src="https://img.shields.io/badge/Foco-Back--End%20Java-2563eb?style=for-the-badge" alt="Foco Back-End Java" />
+  <img src="https://img.shields.io/badge/Disponivel-Freelas%20e%20Projetos-9333ea?style=for-the-badge" alt="Disponivel para freelas" />
+</p>
 
 ---
 
-## 📱 Entre em Contato (Fale Comigo!)
+## O que eu posso entregar
+
+- APIs REST com **Java e Spring Boot**
+- Login, cadastro, autenticacao e controle de acesso
+- CRUDs completos com banco de dados
+- Dashboards e telas administrativas
+- Sistemas para controle financeiro, estoque, vendas e usuarios
+- Landing pages e interfaces responsivas
+- Melhorias em projetos existentes, organizacao de README e ajustes de portfolio
+
+---
+
+## Tecnologias
+
+### Back-End
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,sqlite,maven,docker" alt="Tecnologias Back-End" />
+</p>
+
+### Front-End e Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,scss,git,github,postman" alt="Tecnologias Front-End e Ferramentas" />
+</p>
+
+---
+
+## Projetos em destaque
+
+### [SaldoX - Dashboard Financeiro Pessoal](https://github.com/Widineii/SaldoX)
+
+Sistema financeiro com **Java, Spring Boot, Spring Security, JWT, JPA, H2/PostgreSQL, Docker, HTML, CSS e JavaScript**.
+
+- Cadastro e login de usuarios
+- Autenticacao com JWT e senhas com BCrypt
+- Cadastro, edicao, exclusao e filtros de transacoes
+- Dashboard com saldo, receitas, despesas e graficos
+- Testes de services e controllers
+
+### [Nextt Bank - Sistema Bancario Web](https://github.com/Widineii/Nextt-bank)
+
+Projeto web de portfolio simulando uma plataforma bancaria com **HTML, CSS, JavaScript e Node.js**.
+
+- Login demo e cadastro de cliente
+- Dashboard financeiro responsivo
+- Deposito, saque, transferencia e PIX simulado
+- Cartoes, investimentos, emprestimos e painel administrativo
+- Relatorios, auditoria, PWA e estrutura preparada para deploy
+
+### [FarmaSys Pro - Sistema de Farmacia](https://github.com/Widineii/Sistema-de-Farmacia)
+
+Sistema desktop em **Java Swing, SQLite e Maven**, pensado para rotinas reais de uma farmacia.
+
+- PDV com comanda e caixa separado
+- Controle de estoque e recebimento por XML
+- Perfis de usuario: atendente, chefe e administrador
+- Historico com receita, relatorios diarios e fluxo de entrega
+- Projeto com roteiro de apresentacao, galeria e video demonstrativo
+
+---
+
+## Contato
 
 <p align="center">
   <a href="https://w.app/widineii" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/dineii_martins" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/widineimartinsdev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Widineii" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 ---
 
-## 🧠 Tecnologias e Expertises
-
-### ☕ Domínio Back-End
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,maven,php,docker" alt="Tecnologias Back-End" />
-</p>
-
-### 🌐 Domínio Web & Ferramentas
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,scss,git,postman" alt="Tecnologias Front-End" />
-</p>
-
----
-
-## 🛠️ Projetos em Destaque
-
-> [!IMPORTANT]
-> **🔐 API de Autenticação com JWT**
-> * Implementação de segurança com **Spring Security** e **JWT**.
-> * Criptografia de senhas e controle de acesso por perfis (Roles).
-> * [Ver Repositório →](https://github.com/Widineii)
-
-> [!TIP]
-> **📦 API de Gerenciamento de Produtos**
-> * CRUD completo com **Spring Boot** e **MySQL**.
-> * Uso de **JPA/Hibernate** e boas práticas de arquitetura REST.
-> * [Ver Repositório →](https://github.com/Widineii)
-
-> [!NOTE]
-> **👤 Sistema de Usuários**
-> * Organização em camadas (Controller, Service, Repository).
-> * Tratamento de exceções e padronização de respostas da API.
-> * [Ver Repositório →](https://github.com/Widineii)
-
----
-
-## 📊 Estatísticas e Atividade
+## Estatisticas
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Widineii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="GitHub Stats" />
@@ -97,11 +122,11 @@
 
 ---
 
-## 🎓 Formação e Diferenciais
+## Em evolucao constante
 
-* 🎓 **Ciência da Computação** — Anhanguera (5º Semestre em andamento).
-* 📚 **Formação Contínua Alura** — Java, APIs REST e Spring Framework.
-* ⚡ **Diferencial:** Experiência prática na construção de sistemas seguros e escaláveis.
+- Estudando **Java, Spring Boot, APIs REST, banco de dados e seguranca**
+- Criando projetos completos para portfolio e entrevistas
+- Publicando minha evolucao no GitHub e LinkedIn
+- Aberto a oportunidades, freelas e desafios praticos
 
----
-<p align="center">🚀 <i>"Sempre evoluindo na tecnologia e transformando café em código eficiente."</i></p>
+<p align="center"><i>Codigo bom resolve problema real. Esse e o objetivo em cada projeto.</i></p>
